@@ -1,0 +1,9 @@
+button {
+    border-radius: 8px;
+    background: linear-gradient(to bottom, #ff8c00, #ff6a4c);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
